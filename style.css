@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+div{
+    width: 80%;
+    margin: auto;
+}
+button{
+    height: 40px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+
+table td{
+    border: 3px solid black;
+    margin: 0px;
+    height: 100px;
+    width: 100px;
+    font-size: 4em;
+    text-align: center;
+    padding: 0px;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+#winner{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 50px;
+}
